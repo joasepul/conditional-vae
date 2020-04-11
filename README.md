@@ -1,4 +1,4 @@
-# Image Synthesis using a Variational Autoencoder
+# Conditional Image Synthesis using a Variational Autoencoder
 Trained on: Large-scale CelebFaces Attributes (CelebA) Dataset 
 
 VAE trained to model (64,64) size images and 40 attributes to a 100-dim latent.
